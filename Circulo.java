@@ -19,6 +19,12 @@ public class Circulo extends FiguraGeometrica {
 //Se genera un getter para consultar el valor de la constante PI
     public double getPI() {
         return PI;
+
+
+
+
+
+        
     }
 //este metodo sobre-escribe al heredado de FiguraGeometrica
 //Conserva la misma firma, pero su comportamiento es diferente
